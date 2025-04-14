@@ -30,7 +30,7 @@ C++, Python, Lua, PHP, C#, Go, Pseudo, Assembly
 
 ### 📬 Contact
 
-- **Telegram:** [@YourTelegramUsername](https://t.me/YourTelegramUsername)  
+- **Telegram:** [@xrm2k](https://t.me/xrm2k)  
 - **Discord:** k4r33m.
 
 ---
